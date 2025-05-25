@@ -193,10 +193,6 @@ plant-growth-tracker/
 
 This project was developed as part of the Computer Graphics and Image Processing course, demonstrating practical applications of OpenCV and digital image analysis techniques.
 
-### Contact Information
-- **Technical Questions**: Contact team members
-- **Academic Guidance**: Mrs Srividya S
-
 ---
 
 ## 📄 License & Usage
