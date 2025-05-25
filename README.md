@@ -2,14 +2,6 @@
 
 **Computer Graphics and Image Processing Project**
 
-## 👥 Team Members
-- **Grishma** - 4SF22CS071
-- **Shreya Shenoy** - 4SF22CS206
-
-## 👩‍🏫 Project Guide
-**Mrs Srividya S**  
-Assistant Professor
-
 ---
 
 ## 📋 Project Overview
