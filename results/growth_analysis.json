@@ -1,0 +1,70 @@
+[
+  {
+    "filename": "week3.png",
+    "date": "2025-05-25",
+    "bbox_area": 57988,
+    "green_pixels": 20348,
+    "green_ratio": 0.052,
+    "leaf_count": 2,
+    "brightness": 210.82,
+    "contrast": 52.04,
+    "health_index": 42.92,
+    "bbox_coords": [
+      198,
+      93,
+      266,
+      218
+    ]
+  },
+  {
+    "filename": "week2.png",
+    "date": "2025-05-25",
+    "bbox_area": 67034,
+    "green_pixels": 26481,
+    "green_ratio": 0.0768,
+    "leaf_count": 3,
+    "brightness": 208.56,
+    "contrast": 55.77,
+    "health_index": 39.96,
+    "bbox_coords": [
+      55,
+      6,
+      277,
+      242
+    ]
+  },
+  {
+    "filename": "week1.png",
+    "date": "2025-05-25",
+    "bbox_area": 129456,
+    "green_pixels": 26716,
+    "green_ratio": 0.0792,
+    "leaf_count": 7,
+    "brightness": 204.21,
+    "contrast": 59.32,
+    "health_index": 41.29,
+    "bbox_coords": [
+      34,
+      35,
+      348,
+      372
+    ]
+  },
+  {
+    "filename": "week4.png",
+    "date": "2025-05-25",
+    "bbox_area": 0,
+    "green_pixels": 0,
+    "green_ratio": 0.0,
+    "leaf_count": 0,
+    "brightness": 211.61,
+    "contrast": 64.66,
+    "health_index": 0,
+    "bbox_coords": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
